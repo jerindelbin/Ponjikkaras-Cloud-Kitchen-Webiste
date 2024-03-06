@@ -1,18 +1,46 @@
 html
 {
-    background-color: #F6F4F1;
+    background-color: #f6f4f1;
 }
 
-li
-{
-    display: inline;
+.contact{
+    text-align: center;
+    background-color:#20433c;
+    color: black;
+    margin-top: 0;
+    padding-top: 0;
 }
-ul
-{
-    background-color: rgb(148, 109, 109);
+
+.contact_form{
+    margin: 0 20% 0 20%; 
+    background-color:#5d654d;
+    border-radius: 25px;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
 }
-nav
-{
-    background-color: rgb(197, 179, 179);
-    display: block;
+
+.contact_container{
+    margin: 0 auto;
+    background-color:#20433c;
 }
+
+.subcontainer{
+    margin: 0 20% 0 20%;
+    border-radius: 25px;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+.link_buttons{
+    background-color: #eaf0f2;
+    border-radius: 25px;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    }
