@@ -1,4 +1,18 @@
 html
 {
-    background-color: #f9f9f0;
+    background-color: #F6F4F1;
+}
+
+li
+{
+    display: inline;
+}
+ul
+{
+    background-color: rgb(148, 109, 109);
+}
+nav
+{
+    background-color: rgb(197, 179, 179);
+    display: block;
 }
