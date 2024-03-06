@@ -1,4 +1,46 @@
 html
 {
-    background-color: #f9f9f0;
+    background-color: #f6f4f1;
 }
+
+.contact{
+    text-align: center;
+    background-color:#20433c;
+    color: black;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.contact_form{
+    margin: 0 20% 0 20%; 
+    background-color:#5d654d;
+    border-radius: 25px;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.contact_container{
+    margin: 0 auto;
+    background-color:#20433c;
+}
+
+.subcontainer{
+    margin: 0 20% 0 20%;
+    border-radius: 25px;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+.link_buttons{
+    background-color: #eaf0f2;
+    border-radius: 25px;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    }
